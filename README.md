@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm SiraisiSatoru</h1>
-<h3 align="center">A passionate full stack developer, IoT architect from Hong Kong living in Sydney</h3>
+<h3 align="center">An electrical engineering graduate that passionate in full stack developing and IoT architecture from Hong Kong living in Sydney</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siraisisatoru" alt="siraisisatoru" /></a> </p>
 
 - 🔭 I’m currently working on [react wiki template](https://github.com/siraisisatoru/react-markdown-template)
 
-- 🌱 I’m currently learning **Python and C**
+- 🌱 I’m currently learning **Typescript, NextJs, FastAPI and Python**
 
-- 💬 Ask me about **Typescript, NextJs, FastAPI and Python**
+- 💬 Ask me about **IoT and Python**
 
 - ⚡ Fun fact **I am an electronic graduate but develop websites and train machine learning models.**
 
