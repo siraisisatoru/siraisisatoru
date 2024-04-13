@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python and C**
 
-- 💬 Ask me about **IoT and Python**
+- 💬 Ask me about **Typescript, NextJs, FastAPI and Python**
 
 - ⚡ Fun fact **I am an electronic graduate but develop websites and train machine learning models.**
 
