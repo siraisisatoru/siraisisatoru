@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siraisisatoru" alt="siraisisatoru" /></a> </p>
 
-- 🔭 I’m currently working on [react wiki template](https://github.com/siraisisatoru/react-markdown-template)
+- 🔭 I’m currently working on [next wiki template](https://github.com/siraisisatoru/next-markdown-template)
 
 - 🌱 I’m currently learning **Typescript, NextJs, FastAPI and Python**
 
