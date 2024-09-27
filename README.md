@@ -1,15 +1,15 @@
 <!-- Generated and modified from https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 
 <h1 align="center">Hi 👋, I'm SiraisiSatoru</h1>
-<h3 align="center">An electrical engineering graduate that passionate in full stack developing and IoT architecture from Hong Kong living in Sydney</h3>
+<h3 align="center"> Graduate engineer, passionate about IoT projects and full-stack development. Originally from Hong Kong, now based in Sydney.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siraisisatoru" alt="siraisisatoru" /></a> </p>
 
 - 🔭 I’m currently working on [next wiki template](https://github.com/siraisisatoru/next-markdown-template)
 
-- 🌱 I’m currently learning **Typescript, NextJs, FastAPI and Python**
+- 🌱 I’m currently learning **Typescript, python and C**
 
-- 💬 Ask me about **IoT and Python**
+- 💬 Ask me about **Sunset photoes 🌅 and baking biskets 🍪**
 
 - ⚡ Fun fact **I am an electronic graduate but develop websites and train machine learning models.**
 
@@ -20,7 +20,7 @@
     <td>
         <h4 align="left">Hardware design:</h4>
         <p align="left"> 
-            <img src="https://upload.wikimedia.org/wikipedia/en/e/ef/SystemVerilog_logo.png" alt="system verilog" height="40"/>
+           <img src="https://eirikpre.gallerycdn.vsassets.io/extensions/eirikpre/systemverilog/0.13.9/1705538304159/Microsoft.VisualStudio.Services.Icons.Default" alt="system verilog" height="40"/>
             <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
             <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
             <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
